@@ -18,4 +18,11 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+- Método de ataque "Site Cloner" não funciona devido a atualizações dos browsers.
+- Utilize o Método "Web Templates". Aperte entre e
+escolha opção "Google", essa ação gerará uma página de login do
+google falsa para obter as informações de login.
+
+
+![Alt text](./exercicio.png "Phishing login Google")
+
